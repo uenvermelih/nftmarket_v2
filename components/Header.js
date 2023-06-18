@@ -19,7 +19,7 @@ const Header = () => {
     return <div className={style.wrapper}>
         <Link href="/">
             <div className={style.logoContainer}>
-                <Image src={openSeaLogo} height={40} width={40}/>
+                <Image alt="logo" src={openSeaLogo} height={40} width={40}/>
 
                 <div className={style.logoText}>OpenSea</div>
             </div>
