@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
-import openSeaLogo from "../assets/opensea.png"
 import Link from "next/link";
+import openSeaLogo from "../assets/opensea.png"
 
 const style = {
     wrapper: `bg-[#04111d] w-screen px-[1.2rem] py-[0.8rem] flex `,
